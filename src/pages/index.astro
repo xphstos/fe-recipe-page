@@ -1,0 +1,25 @@
+---
+import Layout from "../layouts/Layout.astro";
+import Card from "../components/Card.astro";
+---
+
+<Layout title="Frontend Mentor | Recipe page">
+	<main>
+		<Card />
+	</main>
+</Layout>
+
+<style>
+	body {
+		margin: 0;
+		background: var(--eggshell);
+	}
+</style>
+
+<style scoped>
+	main {
+		min-height: 100dvh;
+		display: grid;
+		place-items: center;
+	}
+</style>
