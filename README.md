@@ -5,5 +5,5 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [You're here](https://github.com/xphstos/fe-recipe-page)
+- Live Site URL: [Add live site URL here](https://b90d4e3560b81041798dab82ff7115313b9420d0.surge.sh/)
