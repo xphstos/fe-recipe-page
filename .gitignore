@@ -26,3 +26,4 @@ pnpm-debug.log*
 
 *.zip
 recipe-page-main/
+public/CNAME
